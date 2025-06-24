@@ -1,0 +1,25 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "React Basics",
+      "description": "An introduction to React library.",
+      "price": 499,
+      "image": "https://via.placeholder.com/200x250?text=React+Basics"
+    },
+    {
+      "id": 2,
+      "title": "JavaScript Mastery",
+      "description": "Learn JavaScript from beginner to advanced.",
+      "price": 599,
+      "image": "https://via.placeholder.com/200x250?text=JavaScript+Mastery"
+    },
+    {
+      "id": 3,
+      "title": "Node.js Essentials",
+      "description": "Build scalable backend apps with Node.js.",
+      "price": 649,
+      "image": "https://via.placeholder.com/200x250?text=Node.js+Essentials"
+    }
+  ]
+}
